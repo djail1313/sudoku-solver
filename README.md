@@ -1,5 +1,5 @@
 # sudoku-solver
-Solving Sudoku problem. Using Assembly x86 Linux
+Solving Sudoku problem using Backtracking algorithm. Assembly x86 Linux
 
 Requirement:
 - GCC
