@@ -107,6 +107,8 @@ exit:
 	call printf
 	add esp, 4
 	
+	;call print_normal_color
+	
 	push try_again
 	call printf
 	add esp, 4
